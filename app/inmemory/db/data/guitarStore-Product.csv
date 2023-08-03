@@ -1,0 +1,6 @@
+ID;productName;productDescription;price;warehouse_ID;discount_ID
+614bf205-4e2a-4985-8c93-c67f50370252;Fender Stratocaster;Classic electric guitar;1200.00;1a1deb51-c1fd-41d8-bde6-0de54f66097f;078866e0-7ada-4698-a574-80509d9067c9
+b6898b4b-ef8e-4190-9c92-6631767d97e0;Gibson Les Paul;Iconic electric guitar;1500.00;81685fd3-684b-4886-8187-8ee632cde44b;fdd53717-565f-47b0-bf30-cf112ec97d87
+4de9ff1a-c246-4624-ba47-2c835b9a6f40;Yamaha FG800;Reliable acoustic guitar;300.00;e675fdbc-1968-47f3-b461-bf944fb4fca9;fc747d35-513c-444f-be00-363937b83f4c
+cde59457-bbc6-4aa3-9b31-8ad6e8e80959;Martin D-28;High-end acoustic guitar;2500.00;8a692ad2-2249-46c1-af02-f75e646a4368;d5b1304c-8f5a-4e1d-a8e6-bc6fea1bcba8
+ab706224-aa41-4770-9da1-7deb41073097;Ibanez RG550;Versatile electric guitar;800.00;77eba8a6-a6b3-4e00-b06a-39b27862b67f;956b1f76-031a-42f9-9fc3-896b9e8290ed
